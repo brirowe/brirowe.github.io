@@ -83,6 +83,10 @@ li {
   color: #c9d1d9;
 }
 
+.degree {
+  margin-bottom: 28px;
+}
+
 /* Links */
 a {
   color: #58a6ff;
