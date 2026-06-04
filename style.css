@@ -1,0 +1,130 @@
+/* Main page styling */
+body {
+  background: #0d1117;
+  color: #e6edf3;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  line-height: 1.6;
+}
+
+/* Page container */
+body > * {
+  max-width: 950px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Header */
+h1 {
+  color: #ffffff;
+  font-size: 42px;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  letter-spacing: 1px;
+}
+
+h2 {
+  color: #58a6ff;
+  font-size: 26px;
+  margin-top: 35px;
+  border-bottom: 1px solid #30363d;
+  padding-bottom: 8px;
+}
+
+h3 {
+  color: #f0f6fc;
+  font-size: 21px;
+}
+
+/* Navigation bar */
+nav {
+  background: #161b22;
+  border: 1px solid #30363d;
+  border-radius: 12px;
+  padding: 14px 18px;
+  margin-top: 25px;
+  margin-bottom: 30px;
+}
+
+nav a {
+  color: #c9d1d9;
+  text-decoration: none;
+  margin-right: 22px;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+nav a:hover {
+  color: #58a6ff;
+}
+
+/* Content cards */
+section {
+  background: #161b22;
+  border: 1px solid #30363d;
+  border-radius: 14px;
+  padding: 24px;
+  margin: 24px auto;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+}
+
+/* Paragraphs and lists */
+p {
+  color: #c9d1d9;
+  font-size: 16px;
+}
+
+ul {
+  padding-left: 24px;
+}
+
+li {
+  margin-bottom: 8px;
+  color: #c9d1d9;
+}
+
+/* Links */
+a {
+  color: #58a6ff;
+}
+
+a:hover {
+  color: #79c0ff;
+}
+
+/* Buttons / callout links */
+.button-link {
+  display: inline-block;
+  background: #238636;
+  color: white;
+  padding: 10px 14px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.button-link:hover {
+  background: #2ea043;
+  color: white;
+}
+
+/* Smaller screens */
+@media screen and (max-width: 700px) {
+  body {
+    padding: 20px;
+  }
+
+  body > * {
+    max-width: 100%;
+  }
+
+  h1 {
+    font-size: 34px;
+  }
+
+  nav a {
+    display: block;
+    margin-bottom: 10px;
+  }
+}
