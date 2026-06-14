@@ -5,8 +5,6 @@ layout: single
 author_profile: true
 ---
 
-# Contact
-
 Email: [browe726@gmail.com](mailto:browe726@gmail.com)
 
 GitHub: [https://github.com/brirowe](https://github.com/brirowe)
