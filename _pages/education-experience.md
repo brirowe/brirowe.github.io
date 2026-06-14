@@ -5,8 +5,6 @@ layout: single
 author_profile: true
 ---
 
-# Education & Experience
-
 A timeline of my academic background, research experience, applied clinical research roles, and technical training.
 
 <div class="timeline-filters">
