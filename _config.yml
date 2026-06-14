@@ -1,0 +1,32 @@
+title: "Bri Rowe"
+description: "Personal website for research, education, experience, and creative projects."
+url: "https://brirowe.github.io"
+
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
+minimal_mistakes_skin: "dark"
+
+plugins:
+  - jekyll-include-cache
+
+include:
+  - _pages
+
+author:
+  name: "Bri Rowe"
+  bio: "Researcher interested in human physiology, sports medicine, human spaceflight, and machine learning."
+  location: "Denver, CO"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/brirowe"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/bri-rowe-894489174"
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true

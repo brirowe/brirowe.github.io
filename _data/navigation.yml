@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Education & Experience"
+    url: /education-experience/
+  - title: "Research"
+    url: /research/
+  - title: "Creative Projects"
+    url: /creative-projects/
+  - title: "Contact"
+    url: /contact/
