@@ -5,9 +5,7 @@ layout: single
 author_profile: true
 ---
 
-# Research
-
-Some of my top research interests include:
+My top research interests:
 
 - Sex differences in human health and performance, with attention to sex at birth, gender identity, and diverse patient populations
 - Machine learning for exploration and prediction of human performance data and patient outcomes
