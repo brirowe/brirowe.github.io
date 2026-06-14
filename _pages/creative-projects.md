@@ -5,8 +5,6 @@ layout: single
 author_profile: true
 ---
 
-# Creative Projects
-
 ## Project title
 
 Short description
