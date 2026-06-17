@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 ---
 ## About Me
-I'm Bri I’m interested in human physiology, sports medicine, human spaceflight, and machine learning applications in health and performance research.
+As a researcher and data scientist in training, I’m interested in human physiology, sports medicine, human spaceflight, and machine learning applications in health and performance research.
 
 ## Research
 
