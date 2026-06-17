@@ -11,18 +11,6 @@ plugins:
 include:
   - _pages
 
-author:
-  name: "Bri Rowe"
-  bio: "Researcher interested in human physiology, sports medicine, human spaceflight, and machine learning."
-  location: "Denver, CO"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/brirowe"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/bri-rowe-894489174"
-
 defaults:
   - scope:
       path: ""
