@@ -28,3 +28,23 @@ I know the personal website rubric said to include these updates in the website 
   
 **Reflection on the process you used last week, how can you make the process work better?**
   As I said above, I just need to focus on content for now then visual features later. Also, I plan on looking up some more information on how to use the leaflet software for outlining how I'm going to build my interactive map.
+
+
+## Week 5 Update
+
+**What did you do last week?**
+This past week I worked on finalizing content for my personal website and kept building out the structure of my Lego website. After talking with my brother-in-law, who’s a data scientist, I decided to move away from using individual HTML files because it felt tedious and hard to manage. Instead, I started using Jekyll themes with markdown files, which made both websites easier to edit and helped with the visual layout without having to write much CSS. I also downloaded all of my Lego photos, removed duplicates and non-Lego photos, uploaded them into Jupyter, and started creating a photo data structure with file names, titles, locations, latitude, and longitude.
+
+**What do you plan to do this week?**
+This week I’ll keep filling in the photo data structure and start using it to build the Leaflet map. Since my photos don’t have location metadata, I’ll need to manually add the general locations and coordinates. I’ll also keep adding content to the Lego website, especially the homepage.
+
+**Are there any impediments in your way?**
+Jekyll, HTML, and CSS are still new to me, so figuring out how they all work together has taken some trial and error along with help from Claude/chatgpt. Another issue is that the photo locations have to be added manually, which will be a little tedious, but also a fun creative part of organizing the project.
+
+**Reflection on the process you used last week, how can you make the process work better?**
+This week helped me realize that using the right tools like Jekyll makes the project feel a lot more manageable. Switching to Jekyll themes and markdown made it easier to focus on the content and structure instead of getting stuck on every visual detail. Going forward, I’ll break the Leaflet map into smaller steps and start with just a few photos before trying to map everything.
+
+
+
+  
+
