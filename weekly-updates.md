@@ -45,6 +45,18 @@ Jekyll, HTML, and CSS are still new to me, so figuring out how they all work tog
 This week helped me realize that using the right tools like Jekyll makes the project feel a lot more manageable. Switching to Jekyll themes and markdown made it easier to focus on the content and structure instead of getting stuck on every visual detail. Going forward, I’ll break the Leaflet map into smaller steps and start with just a few photos before trying to map everything.
 
 
+## Week 6 Update
 
+**What did you do last week?**
+This past week I completed one of the most tedious parts of this project... manually documenting the locations of my 300+ lego photos as my canon camera does not have location metadata for any of the photos I've taken. Although this was tedious it was really fun to be able to remember of all of the cool places I've taking lego photos (from Colorado to Japan and Mexico). This also allowed be to clean the photo folder to flag any duplicate photos or images that I didn't think were quality enough for the website. I used my jupyter notebook to remove these photo files and create more information columns for the photos such as Minifig Theme and season.
+
+**What do you plan to do this week?**
+This week and next I will work on finalizing the information for the photos to then create a leaflet map with simple markers for all the photos. If I have time then I'll work on figuring out how to create thumbnail photos of all of my images for the interactive map. 
+
+**Are there any impediments in your way?**
+Learning how to use leaflet will be the biggest learning curve, but with resources like Claude, geeksforgeeks, etc. I know I can figure it out. I think first I'll start with just 5-10 photos to try to get the basic structure and formatting to work then add more photos later. Also will look to see how this can integrate with a GitHub page.
+
+**Reflection on the process you used last week, how can you make the process work better?**
+Note to self... take iphone images whenever I take lego pics on my camera so that I have the location metadata and don't have to do the location identification manually haha!
   
 
