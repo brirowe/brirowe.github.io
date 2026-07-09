@@ -81,3 +81,17 @@ Another challenge is trying not to get too hung up on the aesthetics. I want the
 Breaking the project into smaller steps worked well, starting simple with the default Leaflet map and gradually adding features. I also need to better balance function and aesthetics by focusing on core features first and refining design later. Overall, getting the map working was a big step.
   
 
+## Week 8 Update
+
+**What did you do last week?**  
+This past week I worked on formatting the interactive map to better fit the mobile version and figuring out why there were some weird resizing issues. With the help of Claude, I was able to figure out an issue between the Jekyll theme and the CSS files (something I don't fully understand yet, but it's been a great introduction to website design). My main focus this week, though, was creating color palettes from all of my photos. I used a prebuilt library called ColorThief to pull out dominant colors, choosing 8 colors per photo since that felt like a good number for statistics, art designs, and other uses like mosaics. I then figured out how to display these palettes on the palettes page of the website.
+
+**What do you plan to do this week?**  
+I want to refine two main areas this week. First, on the map I'm running into an issue where photos taken at the same coordinate point only show one photo instead of all of them, so I need to figure out how to let users scroll through multiple photos at a single pin location. I also need to figure out why my Japan photos aren't showing up on the mobile version of the map, even though the map itself is scrollable. Second, on the palettes page I don't love the current ordering of the colors, so I want to create three different palette options like sequential, diverging, and qualitative/categorical to give different ways of viewing and using the color data.
+
+**Are there any impediments in your way?**  
+The mismatched photo/coordinate display on the map and the Japan photos not loading on mobile are the two current blockers. I'm also still working through my limited CSS/Jekyll knowledge, which is slowing down some of the formatting fixes.
+
+**Reflection on the process you used last week, how can you make the process work better?**  
+I'm still working on not focusing too heavily on aesthetics. Going forward, I think each week I'll try to balance a formatting/design task with a development task, so I keep making progress on core features while still improving the look and feel along the way.
+  
