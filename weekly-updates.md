@@ -95,3 +95,22 @@ The mismatched photo/coordinate display on the map and the Japan photos not load
 **Reflection on the process you used last week, how can you make the process work better?**  
 I'm still working on not focusing too heavily on aesthetics. Going forward, I think each week I'll try to balance a formatting/design task with a development task, so I keep making progress on core features while still improving the look and feel along the way.
   
+
+
+## Week 9 Update
+
+**What did you do last week?**
+This past week I mainly focused on fixing and adding features to the interactive map. I fixed the issue where Japan was not showing up on the mobile or web version, which ended up being caused by the map size limits. I also added marker clustering through Leaflet, so when users are zoomed out they can see how many photos I have in different areas, and then zoom in to view the individual locations. I also got the carousel working so multiple photos taken at the same location can be viewed together, basically grouped photos by coordinate points then added a popup feature to the marker for that point so people can scroll left and right.
+
+My other main focus was uploading photos of the LEGO mosaics I've done. I added links to the Instagram posts where I show the building process for most of the newer wones. This took some time because I had to manually organize the photos, titles, and links, but I like how it turned out and how it connects my website and Instagram.
+
+**What do you plan to do this week?**
+This next week I want to clean up the palettes page. Right now the code pulls the 8 most common colors, but it sometimes misses smaller, vibrant colors that stand out in the photo. I want to test ways to better capture those colors, possibly by focusing more on the center of the image where the minifig usually is or by searching for contrasting colors to the most common ones. I also want to organize the palettes in a more sequential format.
+
+Then I want to start outlining the minifig archive by creating an Excel sheet with the minifig theme and the set each figure came from (of the ones that are actually from a set and not my custom builds). Eventually, I want to connect this information to the map and add filters so users can view photos by theme, elevation, or other categories.
+
+**Are there any impediments in your way?**
+Formatting is still the biggest challenge, especially getting everything to display correctly on both desktop and mobile. The Jekyll theme has helped a lot with setting up the website, but some of the pre-made settings can be difficult to work around. Leaflet also has some limitations that make certain features and formatting more complicated.
+
+**Reflection on the process you used last week, how can you make the process work better?**
+Going forward, I want to keep focusing on one formatting problem and one functional or logistical next step each week. I think this will help me keep making progress without getting too stuck on one part of the website.
