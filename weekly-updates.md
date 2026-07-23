@@ -114,3 +114,21 @@ Formatting is still the biggest challenge, especially getting everything to disp
 
 **Reflection on the process you used last week, how can you make the process work better?**
 Going forward, I want to keep focusing on one formatting problem and one functional or logistical next step each week. I think this will help me keep making progress without getting too stuck on one part of the website.
+
+
+## Week 10 Update
+
+**What did you do last week?**
+This past week I mainly worked through the palette problem, trying to get the palettes to catch more of the popping, vibrant colors, especially on the minifigs themselves instead of just the background. I also wanted to get them ordered in a more sequential format so they'd look better. I tried a bunch of different strategies and posted about it on Piazza to get some help, and overall got things into a better spot, though I'll keep working through it.
+
+My other focus was starting the minifig archive. Right now that mostly means going into my Excel sheet and filling in info for each photo, like the season the theme fits (spring, winter, fall, summer), which set the figure is from (if it's from a set and not a custom build), and background type categories like wildflowers, cactus, mountain landscape, or masks. This will double as filtering info for the map and also organize the archive itself by theme and then sets. I don't have anything to show on the archive page yet since I'm still doing data entry.
+
+**What do you plan to do this week?**
+This week I want to finish entering the data and get the minifig archive page actually working. I also want to add social media links, probably on a left side toolbar, linking to Instagram and TikTok to start getting some cross traffic. Lastly, I want to try adding filtering to the map, plus fix the aesthetic thing where the map is really wide but pretty short.
+
+**Are there any impediments in your way?**
+The biggest improvement was figuring out the palette issue, getting it to better catch the popping colors and identify the minifigs. Still a work in progress, but I want to get the rest of the site together before putting more time into it. Down the line I think it'd be cool to build my own image classification model for this, but that'll probably wait until after the course.
+
+**Reflection on the process you used last week, how can you make the process work better?**
+My process stayed the same, one aesthetic task and one functional task each week, and it's still working well, so I'm sticking with it.**
+
