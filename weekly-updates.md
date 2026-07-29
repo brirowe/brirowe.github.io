@@ -132,3 +132,26 @@ The biggest improvement was figuring out the palette issue, getting it to better
 **Reflection on the process you used last week, how can you make the process work better?**
 My process stayed the same, one aesthetic task and one functional task each week, and it's still working well, so I'm sticking with it.**
 
+
+
+## Week 11 Update
+
+**What did you do last week?**
+I finished all the data entry for the minifig information: year, set, theme, subtheme, season, and background type for every photo. I considered automating this, but I accessorize the minifigs a lot and sometimes mix parts across sets, so image recognition would struggle to identify which set a figure came from, especially when the same minifig shows up in multiple sets. That's something I only know from owning the collection myself.
+
+Once the data was done, I used it to build the minifig archive page. It shows every photo I currently have, and users can filter by any of those categories, with multiple filters applied at once. I had fun building this one and think it's a genuinely useful way to browse the collection.
+
+I also added social media links to the site for cross traffic, fixed a layout issue that left a lot of blank space on the left and right margins, and fixed the map's proportions since it was very wide but not very tall.
+
+**What do you plan to do this week?**
+Main focus is bringing the same filtering system from the archive page to the map, scaled down to a few filters: theme, background type, and season. I also want to add an elevation component, pulled from the coordinate points if possible.
+
+Beyond that, I want to build out the shop section: linking Depop and Poshmark, adding a landing page for PDF instructions to my mosaic builds, and a section on buying prints and photos. I sell those with buildable frames at Bricks and Minifigs in Centennial, Colorado, so this would be a local pickup option with the location and details linked.
+
+Then if I have time, I want to start the homepage: photos of me and what I actually do, the hiking, how and why I started this hobby, etc. If time's left over, I'll get back to the palette issue.
+
+**Are there any impediments in your way?**
+Still the general learning curve of everything a website can do visually. The other one is the palette issue. A classmate gave me feedback I want to try, using a pretrained model to identify the minifigure and pull colors from it specifically. Then I also want to clean up the palette page by removing duplicate palettes. But time is a restriction right now.
+
+**Reflection on the process you used last week, how can you make the process work better?**
+Sticking with one aesthetic task and one core task a week. Still working well, happy with how things have turned out so far!
