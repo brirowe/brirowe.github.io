@@ -155,3 +155,18 @@ Still the general learning curve of everything a website can do visually. The ot
 
 **Reflection on the process you used last week, how can you make the process work better?**
 Sticking with one aesthetic task and one core task a week. Still working well, happy with how things have turned out so far!
+
+
+## Week 12 Update
+
+**What did you do last week?**
+I focused on the homepage and About Me content where I gathered photos of me taking pics of minifigs, organized them, and wrote a short description of why I started the hobby. Most of my time actually went into figuring out formatting, I didn't have a clear visual of what I wanted for that page so I went down a bit of a rabbit hole looking at examples before landing on something I liked. I ended up splitting it into a separate About Me page, with the homepage now acting as a simple landing spot summarizing what the site contains. That took longer than expected, but I think it's an important piece.
+
+**What do you plan to do this week?**
+Main focus is finalizing everything. I need to integrate the shop, mostly just linking pages I've already built, fix a few remaining aesthetic issues, and make sure everything links together properly. The priority is optimizing the site for mobile.
+
+**Are there any impediments in your way?**
+Still lacking a clear reference for the look I want for the home and about me page, which is what sends me down aesthetic rabbit holes. I plan to put together some mockups if I have time.
+
+**Reflection on the process you used last week, how can you make the process work better?**
+I did prioritize the core component (About Me content) before aesthetics, but I still got pulled into formatting details longer than planned. Doing mockups upfront should help keep that in check going forward.
