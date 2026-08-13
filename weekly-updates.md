@@ -170,3 +170,8 @@ Still lacking a clear reference for the look I want for the home and about me pa
 
 **Reflection on the process you used last week, how can you make the process work better?**
 I did prioritize the core component (About Me content) before aesthetics, but I still got pulled into formatting details longer than planned. Doing mockups upfront should help keep that in check going forward.
+
+## Week 13 Update
+This is the final week of classes, so I focused on finalizing things. I mainly worked on the home page and about me page, adding a lot of my favorite photos along with more information about me and what this hobby is about. I also got the shop page as done as I can for now. I still need to set up an eBay account and get some photos from the local store I collaborate with, but everything's set up to link directly to my selling platforms. I also spent time optimizing all the pages more for mobile, making sure everything fit right and prioritizing that view since that's where most people will see the site. Since this is the last week, I plan to keep working on this project slowly without deadlines going forward, and I'm going to take a little time off from it once the semester ends. Here's my final product, and I hope everyone takes a look. Let me know what you think, or if you have any ideas for minifigs I should photograph next.
+
+My Lego Site: https://brirowe.github.io/Lego-Photography-Interactive-Portfolio/
